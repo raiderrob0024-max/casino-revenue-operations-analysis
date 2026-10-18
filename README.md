@@ -33,3 +33,22 @@ An Excel analysis workbook and executive-style presentation documenting methodol
 
 ## Data Disclaimer
 This project uses simulated data and does not represent actual casino financial performance.
+## My Contributions
+
+This project was completed for a Data Analyst interview assessment using simulated casino operations data and initial worksheets supplied by the prospective employer.
+
+My individual contributions included:
+
+- Reviewed the supplied dataset and worksheet relationships to understand the business questions.
+- Created calculated columns and KPIs to evaluate gaming revenue, year-over-year performance, and restaurant spending.
+- Used XLOOKUP to enrich transaction records with gaming theme, device type, and location attributes.
+- Developed additional analytical worksheets and PivotTables to evaluate operational performance.
+- Identified missing patron IDs, missing location information, and zero-cover transactions while documenting analytical assumptions.
+- Presented findings and operational recommendations through an executive-style presentation.
+
+## View Project Files
+
+- [View Executive Presentation](Finished%20Analyst%20Project.pdf)
+- [Download Excel Analysis Workbook](Submission%20operations.xlsx)
+
+**Project Note:** This case study uses simulated data and does not represent actual casino financial performance. The initial dataset and some worksheets were supplied for the interview assessment. The additional calculations, analytical worksheets, findings, and recommendations reflect my individual contributions.
